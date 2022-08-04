@@ -33,8 +33,7 @@ The second option should return the details of the user interface such as option
 - Git GUI
 
 # SPRINT PLANNING:
-
-
+https://lankudai10.atlassian.net/jira/software/c/projects/LC/boards/1?selectedIssue=LC-14
 
 
 # SETUP:
