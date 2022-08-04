@@ -27,3 +27,16 @@ The second option should return the details of the user interface such as option
 - Delete a user specified file from the existing directory list
 - Search a user specified file from the main directory
 - Option to Close the application.
+
+# SOFTWARE USED:
+- Eclipse IDE
+- Git GUI
+
+# SPRINT PLANNING:
+
+
+
+
+# SETUP:
+ RUN THIS JAVA PROJECT
+ MAIN(), method can be found undere Src
