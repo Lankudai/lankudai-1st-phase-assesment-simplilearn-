@@ -2,7 +2,7 @@
 
 #TABLE OF CONTENTS
 - About the Project
-- Scree shot (OUTPUT)
+- Screen shot (OUTPUT)
 - Software Used
 - Sprint Planning
 - Setup
@@ -18,3 +18,4 @@
 
 # SCREEN SHOT (OUTPUT):
 
+![projectScreenshot (27)](https://user-images.githubusercontent.com/110302992/182826211-43556ec4-facb-4749-9aa0-270f041361b4.png)
